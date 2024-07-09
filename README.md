@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subashkhatri36" alt="subashkhatri36" /></a> </p>
 
-- 📝 I regularly write articles on [https://khatriblog24.blogspot.com/](https://khatriblog24.blogspot.com/)
+- 📝 Website [https://khatriblog24.blogspot.com/](https://subashkhatri.com.au/)
 
 - 💬 Ask me about **Android,java,c#,.net**
 
